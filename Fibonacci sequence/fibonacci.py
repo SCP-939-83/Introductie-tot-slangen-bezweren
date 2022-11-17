@@ -23,5 +23,5 @@ def Fibonacci(length):
         length -= 1
 
 if __name__ :
-    Fibonacci(50)
+    Fibonacci(15)
 
